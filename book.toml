@@ -1,0 +1,14 @@
+[book]
+authors = ["Johannes Lötzsch"]
+language = "de"
+multilingual = false
+src = "src"
+title = "LF7: Cyber-physische Systeme ergänzen"
+[preprocessor]
+[preprocessor.mermaid]
+command = "mdbook-mermaid"
+[output]
+[output.html]
+git-repository-url = "https://github.com/johannesloetzsch/LF7/tree/main"
+edit-url-template = "https://github.com/johannesloetzsch/LF7/tree/main/{path}"
+additional-js =["mermaid.min.js", "mermaid-init.js"]

@@ -1,0 +1,91 @@
+Industrie 4.0
+IoT
+Vernetzte Systeme
+Smart Manufacturing
+Sensorfusion
+Echtzeit-Kommunikation
+Edge Computing
+Künstliche Intelligenz
+Maschinelles Lernen
+Big Data
+Cloud-Integration
+Automatisierung
+Adaptive Regelung
+Intelligente Sensoren
+Augmented Reality
+Virtuelle Realität
+Drahtlose Kommunikation
+Autonome Systeme
+Predictive Maintenance
+Sensornetzwerke
+Kommunikationsprotokolle
+RFID-Technologie
+M2M-Kommunikation
+Cybersecurity
+Datenfusion
+Machine-to-Machine
+Kollaborative Robotik
+Digitale Fabrik
+Automatisierte Produktion
+Human-Machine Interface
+Kontextbewusste Systeme
+Simultaneous Localization and Mapping
+Digitaler Fertigungsprozess
+Smart Grids
+CPS-Sicherheit
+Edge-Analytik
+Sensordatenverarbeitung
+Adaptive Regelungssysteme
+Verteilte Systeme
+Fog Computing
+Data Analytics
+Interoperabilität
+Supply-Chain-Optimierung
+Virtuelle Prototypen
+Datenvisualisierung
+Predictive Analytics
+Robotersteuerung
+Energiemanagement
+Adaptive Produktion
+CPS-Architektur
+Datenaggregation
+Embedded Systems
+Modellbasierte Steuerung
+Roboter-Vision
+Automatisierungstechnik
+IIoT (Industrial Internet of Things)
+Automatisierte Logistik
+Virtuelle Umgebung
+Mensch-Roboter-Kollaboration
+Prozessoptimierung
+CPS-Integration
+Smart Cities
+Anomalieerkennung
+Cognitive Computing
+Adaptive Wartung
+Kommunikationssicherheit
+Wireless Sensor Networks
+Predictive Quality
+Prozessvisualisierung
+Logistikoptimierung
+Embedded Intelligence
+CPS-Modellierung
+Roboter-Kooperation
+Mensch-Maschine-Schnittstellen
+Datenintegration
+CPS-Entwicklung
+Echtzeit-Analyse
+Automatisierte Inspektion
+Digitaler Arbeitsplatz
+CPS-Plattformen
+Adaptive Regelungsstrategien
+Ressourcenoptimierung
+Asset Tracking
+Cognitive Robotics
+Kontexterkennung
+Cyberspace-Physischer Raum
+Predictive Performance
+Sensorik und Aktuatorik
+Selbstheilende Systeme
+Virtuelle Produktionssimulation
+CPS-Überwachungssysteme
