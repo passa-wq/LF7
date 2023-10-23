@@ -58,14 +58,7 @@ gantt
 * Minimum Klassenarbeiten (>45min, doppelte Wertung): 2
 * Minimum Kurzkontrollen (<45min): 3
 
-> * **Mi 25.10.** Kurzkontrolle 40min
->   * Grundlagen CPS
->    * Schnittstellen, **Von-Neumann-Zyklus**
->   * Rechnernetze: **Topologien**
->    * Bussysteme
->   * Integration, Standards
->   * **OSI Modell**
->   * Bitübertragungsschicht
+> * ~~Mi 25.10. Kurzkontrolle 40min~~
 > * **Fr 27.10. Klassenarbeit** ~90min (einseitig beschrifteter A4 Notizzettel)
 > * **Mo 04.12.** Kurzkontrolle
 > * **Do 07.12. Klassenarbeit**
@@ -77,10 +70,11 @@ gantt
 > - [x] Dokumentation mit [hedgedoc](https://hedgedoc.c3d2.de/) und [mdBook](https://rust-lang.github.io/mdBook/)
 > - [x] Git Kurzeinführung (machen wir später noch ausführlicher)
 >   * [OhMyGit](https://ohmygit.org/)
-> - [ ] Allgemeine Infos (Unterrichtskonzept)
-> - [ ] Übersicht LF7 + PV
-> - [ ] Grundlagen CPS
-> - [ ] Schnittstellen
+> - [x] Allgemeine Infos (Unterrichtskonzept)
+> - [x] Übersicht LF7 + PV
+> - [x] Grundlagen CPS
+> - [x] Schnittstellen
+>   - [ ] Logik Gatter
 >   - [ ] Von-Neumann-Zyklus
 > - [ ] Rechnernetze -> Bussysteme
 > - [ ] Integration -> Schnittstellen -> Standards
