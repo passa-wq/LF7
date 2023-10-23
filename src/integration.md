@@ -16,6 +16,7 @@
     * wo?
     * welche?
   * dokumentieren
+    * [Hedgedoc](https://hedgedoc.c3d2.de/UTJJAtwHS5SHJvGT6W9SEA#)
 * bestehende, verbreitete, offene **Standards** nutzen
   * Schnittstellen
     * **Protokolle**
