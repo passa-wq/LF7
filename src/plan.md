@@ -76,6 +76,7 @@ gantt
 
 > - [x] Dokumentation mit [hedgedoc](https://hedgedoc.c3d2.de/) und [mdBook](https://rust-lang.github.io/mdBook/)
 > - [x] Git Kurzeinführung (machen wir später noch ausführlicher)
+>   * [OhMyGit](https://ohmygit.org/)
 > - [ ] Allgemeine Infos (Unterrichtskonzept)
 > - [ ] Übersicht LF7 + PV
 > - [ ] Grundlagen CPS
