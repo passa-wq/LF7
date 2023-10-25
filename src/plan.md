@@ -60,6 +60,12 @@ gantt
 
 > * ~~Mi 25.10. Kurzkontrolle 40min~~
 > * **Fr 27.10. Klassenarbeit** ~90min (einseitig beschrifteter A4 Notizzettel)
+>   * Zweierpotenzen
+>   * Logische Verknüpfungen (Not, And, Or, XOr)
+>     * Wahrheitswertetabelle
+>     * Logik Gatter (Schaltung mit einfachen (Um-)Schaltern)
+>   * Von-Neumann-Zyklus
+>   * Berechnung von (Vor-)Widerständen
 > * **Mo 04.12.** Kurzkontrolle
 > * **Do 07.12. Klassenarbeit**
 > * **???** (mindestens) 1 weitere Kurzkontrolle
@@ -73,9 +79,23 @@ gantt
 > - [x] Allgemeine Infos (Unterrichtskonzept)
 > - [x] Übersicht LF7 + PV
 > - [x] Grundlagen CPS
-> - [x] Schnittstellen
+> - [.] Schnittstellen
 >   - [ ] Logik Gatter
 >   - [ ] Von-Neumann-Zyklus
+
+### Mi 25.10.
+> - [x] Grundlagen digitaler Schaltungen
+>   - [x] Logische Verknüpfungen (Not, And, Or, XOr)
+>     - [x] Wahrheitswertetabelle
+>     - [x] Logik Gatter (Schaltung mit einfachen (Um-)Schaltern)
+>     - [ ] Logik Gatter mit Resistor-Transistor-Logik
+>       - [ ] (Halb-)Addierer
+>   - [x] Berechnung von (Vor-)Widerständen
+> - [ ] Von-Neumann-Zyklus
+> - [ ] Schnittstellen
+
+### Do 26.10.
+
 > - [ ] Rechnernetze -> Bussysteme
 > - [ ] Integration -> Schnittstellen -> Standards
 > - [ ] OSI Modell
