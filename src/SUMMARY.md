@@ -14,3 +14,5 @@
   * [Anwendungsorientiert](./anwendungsorientiert.md)
     * [HTTP](http.md)
     * [MQTT](./mqtt.md)
+* [Praxis](praxis.md)
+  * [Raspberry Pi](pi.md)

@@ -10,23 +10,20 @@ gantt
  section 8h Mo 23.10.
   Einführung                  :2023-10-23, 8h
  section 8h Mi 25.10.
-  Kurzkontrolle               :milestone, 2023-10-25, 1h
-  …                           :2023-10-25, 5h
-  PV Beispielprüfung + Fragen :2023-10-25, 3h
+  …                           :2023-10-25, 8h
  section 8h Do 26.10.
   …                           :2023-10-26, 8h
  section 8h Fr 27.10.
   Klassenarbeit               :milestone, 2023-10-27, 2h
   …                           :2023-10-27, 4h
-  SOL Planung Projekt         :2023-10-27, 2h
+  PV SOL Beispielprüfung      :2023-10-27, 2h
  section 5h Mo 27.11.
-  Beispielsystem              :2023-11-27, 5h
+  …                           :2023-11-27, 5h
  section 6h Mi 29.11.
   …                           :2023-11-29, 6h
  section 8h Do 30.11.
   …                           :2023-11-30, 8h
  section 8h Mo 04.12.
-  Kurzkontrolle               :milestone, 2023-12-04, 1h
   …                           :2023-12-04, 7h
  section 5h Di 05.12.
   …                           :2023-12-05, 5h
@@ -58,7 +55,6 @@ gantt
 * Minimum Klassenarbeiten (>45min, doppelte Wertung): 2
 * Sonstige Noten: >=3
 
-> * ~~Mi 25.10. Kurzkontrolle 40min~~
 > * **Fr 27.10. Klassenarbeit** ~90min (einseitig beschrifteter A4 Notizzettel + 1 einfacher Taschenrechner ohne Binärberechnungen)
 >   * Zweierpotenzen
 >   * Logische Verknüpfungen (Not, And, Or, XOr)
@@ -67,8 +63,13 @@ gantt
 >   * Von-Neumann-Zyklus
 >   * Berechnung von (Vor-)Widerständen
 >   * Rechnernetze / Topologien
-> * **Mo 04.12.** Kurzkontrolle
-> * **Do 07.12. Klassenarbeit**
+
+> * **Do 07.12. Klassenarbeit** ~90min (einseitig beschrifteter A4 Notizzettel)
+>   * Grundlagen Programmierung (Variablen, While, If/Else)
+>   * Grundlagen Git
+>   * OSI-Modell, insbesondere Physical Layer
+>   * UART, I²C, SPI
+>   * HTTP, MQTT
 
 ## Checkliste
 
@@ -99,9 +100,32 @@ gantt
 > -   [.] -> Standards
 
 ### Fr 27.10.
-> - [ ] Klassenarbeit
-> - [ ] Integration -> Schnittstellen -> Standards
+> - [x] Klassenarbeit
+> - [x] Integration -> Schnittstellen -> Standards
+> - [x] Sortieralgorithmen
+> - [x] SOL: Klausuraufgabe
+
+### Mo 27.11. + Mi 29.11.
+> - [x] Einführung Raspberry Pi
+> - [x] GPIO (Leds+Buttons)
+> - [x] Grundlagen Programmierung
+
+### Do 30.11.
+> - [ ] Vorstellung von Ergebnissen vom 29.11.
 > - [ ] OSI Modell
 > - [ ] Bitübertragung
-> - [ ] Sortieralgorithmen (?)
->  - [ ] Klausuraufgabe (?)
+> - [ ] UART, I²C, SPI
+> - [ ] Vorschläge für weitere Raspberry-Projekte
+> - [ ] Zeit für Praxisprojekte mit Raspberry Pi
+
+### Mo 4.12.
+> - [ ] HTTP, MQTT
+> - [ ] Grundlagen Git
+> - [ ] Arduino?
+### Di 5.12.
+> - [ ] Wiederholung für Klassenarbeit
+> - [ ] Zeit für Praxisprojekte
+### Do 7.12.
+> - [ ] Klassenarbeit
+### Fr 8.12.
+> - [ ] SOL: Klausuraufgabe? 
