@@ -66,7 +66,7 @@ gantt
 
 > * **Do 07.12. Klassenarbeit** ~90min (einseitig beschrifteter A4 Notizzettel)
 >   * Grundlagen Programmierung (Variablen, While, If/Else)
->   * Grundlagen Git
+>   * [Grundlagen Git](https://johannesloetzsch.github.io/linux-praktikum/versionskontrolle.html)
 >   * OSI-Modell, insbesondere Physical Layer
 >   * UART, I²C, SPI
 >   * HTTP, MQTT
@@ -111,16 +111,17 @@ gantt
 > - [x] Grundlagen Programmierung
 
 ### Do 30.11.
-> - [ ] Vorstellung von Ergebnissen vom 29.11.
-> - [ ] OSI Modell
-> - [ ] Bitübertragung
-> - [ ] UART, I²C, SPI
-> - [ ] Vorschläge für weitere Raspberry-Projekte
-> - [ ] Zeit für Praxisprojekte mit Raspberry Pi
+> - [x] Vorstellung von Ergebnissen vom 29.11.
+> - [x] OSI Modell
+> - [x] Bitübertragung
+> - [x] UART, I²C, SPI
+> - [x] Vorschläge für weitere Raspberry-Projekte
+> - [x] Zeit für Praxisprojekte mit Raspberry Pi
 
 ### Mo 4.12.
-> - [ ] HTTP, MQTT
-> - [ ] Grundlagen Git
+> - [x] HTTP, MQTT
+> - [ ] [Grundlagen Git](https://johannesloetzsch.github.io/linux-praktikum/versionskontrolle.html)
+> - [ ] CTF
 > - [ ] Arduino?
 ### Di 5.12.
 > - [ ] Wiederholung für Klassenarbeit
