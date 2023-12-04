@@ -120,13 +120,14 @@ gantt
 
 ### Mo 4.12.
 > - [x] HTTP, MQTT
-> - [ ] [Grundlagen Git](https://johannesloetzsch.github.io/linux-praktikum/versionskontrolle.html)
-> - [ ] CTF
-> - [ ] Arduino?
+> - [x] [Grundlagen Git](https://johannesloetzsch.github.io/linux-praktikum/versionskontrolle.html)
+> - [x] Praxis: CTF, Git, Arduino
 ### Di 5.12.
 > - [ ] Wiederholung für Klassenarbeit
+> - [ ] Arduino (PlatformIO)
 > - [ ] Zeit für Praxisprojekte
 ### Do 7.12.
 > - [ ] Klassenarbeit
+> - [ ] Zeit für Praxisprojekte
 ### Fr 8.12.
-> - [ ] SOL: Klausuraufgabe? 
+> - [ ] SOL: Klausuraufgabe
