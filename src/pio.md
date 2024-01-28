@@ -8,3 +8,5 @@ pio device monitor
 ```
 
 ## Alternative: [MicroPython](https://docs.micropython.org/en/latest/esp32/quickref.html)
+
+## [Simulator](https://wokwi.com/)

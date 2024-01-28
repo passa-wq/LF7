@@ -16,7 +16,7 @@ gantt
  section 8h Fr 27.10.
   Klassenarbeit               :milestone, 2023-10-27, 2h
   …                           :2023-10-27, 4h
-  PV SOL Beispielprüfung      :2023-10-27, 2h
+  PV SOL Prüfung Frühjahr 22  :2023-10-27, 2h
  section 5h Mo 27.11.
   …                           :2023-11-27, 5h
  section 6h Mi 29.11.
@@ -31,22 +31,22 @@ gantt
   Klassenarbeit               :milestone, 2023-12-07, 2h
   …                           :2023-12-07, 6h
  section 2h Fr 08.12.
-  PV SOL Beispielprüfung      :2023-12-08, 2h
+  PV SOL Prüfung Herbst 22    :2023-12-08, 2h
  section 5h Mo 29.01.
-  …                           :2024-01-29, 5h
+  Q&A, Projektarbeit          :2024-01-29, 5h
  section 5h Di 30.01.
-  …                           :2024-01-30, 5h
+  Projektarbeit               :2024-01-30, 5h
  section 8h Do 01.02.
   Projektabschluss            :2024-02-01, 7h
   PV Fragen                   :2024-02-01, 1h
  section 2h Fr 02.02.
-  PV SOL Beispielprüfung      :2024-02-02, 2h
+  PV SOL Prüfung Frühjahr 23 (bis 8.2.) :2024-02-02, 2h
  section 5h Di 06.02.
-  PV                          :2024-02-06, 5h
+  PV (Vergleich Herbst 22)    :2024-02-06, 5h
  section 2h Do 08.02.
-  PV Fragen                   :2024-02-08, 2h
+  PV (Vergleich Frühjahr 23)  :2024-02-08, 2h
  section 4h Fr 09.02.
-  PV                          :2024-02-09, 4h
+  PV (Q&A)                    :2024-02-09, 4h
 ```
 
 ## Leistungskontrollen
@@ -81,8 +81,6 @@ gantt
 > - [x] Übersicht LF7 + PV
 > - [x] Grundlagen CPS
 > - [.] Schnittstellen
->   - [ ] Logik Gatter
->   - [ ] Von-Neumann-Zyklus
 
 ### Mi 25.10.
 > - [x] Grundlagen digitaler Schaltungen
@@ -123,11 +121,11 @@ gantt
 > - [x] [Grundlagen Git](https://johannesloetzsch.github.io/linux-praktikum/versionskontrolle.html)
 > - [x] Praxis: CTF, Git, Arduino
 ### Di 5.12.
-> - [ ] Wiederholung für Klassenarbeit
-> - [ ] Arduino (PlatformIO)
-> - [ ] Zeit für Praxisprojekte
+> - [x] Wiederholung für Klassenarbeit
+> - [x] Arduino (PlatformIO)
+> - [x] Zeit für Praxisprojekte
 ### Do 7.12.
-> - [ ] Klassenarbeit
-> - [ ] Zeit für Praxisprojekte
+> - [x] Klassenarbeit
+> - [x] Zeit für Praxisprojekte
 ### Fr 8.12.
-> - [ ] SOL: Klausuraufgabe
+> - [x] SOL: Klausuraufgabe
