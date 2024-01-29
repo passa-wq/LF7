@@ -18,3 +18,6 @@
 * [Praxis](praxis.md)
   * [Raspberry Pi](pi.md)
   * [PIO + NodeMCU](pio.md)
+* [Prüfungsvorbereitung](pruefung/uebersicht.md)  
+  * [IPv6](pruefung/v6.md)
+  * [Netzplan](pruefung/netzplan.md)
