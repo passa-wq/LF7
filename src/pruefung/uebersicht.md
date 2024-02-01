@@ -10,3 +10,9 @@
 | Frühjahr 23          | ✓       | 🮱      | 🮱  (8.2.)  | SOL 02.02.24           |
 | Herbst 23            | ?       | ?      | -          | selbstständiges lernen |
 
+## Inhalte
+
+### [NAT, VLAN](https://johannesloetzsch.github.io/LF11b/netzwerksicherheit.html#nat)
+
+### SQL
+### UML
