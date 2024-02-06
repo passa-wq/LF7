@@ -80,6 +80,8 @@ flowchart LR
 ### „Aus Sicht eines [Prozessors](https://de.wikipedia.org/wiki/Prozessor#Verarbeitung_eines_einzelnen_Befehls)“
 (**Rechnerarchitektur** / **Prozessorarchitektur**)
 
+> IHK-Zwischenprüfung 2018: Aufgabe 2.2
+
 #### stark vereinfacht
 
 ```mermaid

@@ -46,7 +46,8 @@ classH <.. classI : Abhängigkeit
 ![](https://upload.wikimedia.org/wikipedia/commons/f/fe/UmlCd_Klassendiagramm-1.svg)
 
 ### Aufgaben
-* Herbst 2023: Aufgabe 4
+* Frühjahr 2023: Aufgabe 4
+* Herbst 2019: Aufgabe 3
 
 ## [Anwendungsfalldiagramm (Use Case)](https://de.wikipedia.org/wiki/Anwendungsfalldiagramm)
 
