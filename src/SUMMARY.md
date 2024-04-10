@@ -22,3 +22,4 @@
   * [UML](pruefung/uml.md)
   * [IPv6](pruefung/v6.md)
   * [Netzplan](pruefung/netzplan.md)
+  * [SQL](pruefung/sql.md)
