@@ -1,6 +1,18 @@
 # UML
 (LF5)
 
+* UML-Diagramme für logischen Aufbau (statische Sicht):
+  - Klassendiagramme
+  - *Objektdiagramme*
+  - *Paketdiagramme*
+  - *Kollaborationsdiagramme*
+* UML-Diagramme für Interaktionen/Abläufe (dynamische Sicht):
+  - Aktivitätsdiagramme
+  - Sequenzdiagramme
+  - Zustandsdiagramme
+
+> Prüfung Teil 2 SI Winter 2021 Konzeption, Aufgabe 3cd)
+
 ## [Entity-Relationship-Modell (ERM)](https://de.wikipedia.org/wiki/Entity-Relationship-Modell)
 
 * Entität (Entity)
@@ -11,8 +23,9 @@
 ### Beispiel
 ![](https://upload.wikimedia.org/wikipedia/de/a/ab/Er-diagramm.svg)
 
-### Aufgaben
-* Herbst 2023: Aufgabe 4
+> Prüfung Teil 1 Herbst 22
+
+> Prüfung Teil 1 Herbst 23 Aufgabe 4
 
 ## Klassendiagramm
 
@@ -45,9 +58,13 @@ classH <.. classI : Abhängigkeit
 ### Beispiel
 ![](https://upload.wikimedia.org/wikipedia/commons/f/fe/UmlCd_Klassendiagramm-1.svg)
 
-### Aufgaben
-* Frühjahr 2023: Aufgabe 4
-* Herbst 2019: Aufgabe 3
+> Prüfung Teil 1 Herbst 19: Aufgabe 3
+
+> Prüfung Teil 1 Frühjahr 23: Aufgabe 4
+
+> Prüfung AE Winter 21 Planung
+
+> Prüfung AE Sommer 22 Planung
 
 ## [Anwendungsfalldiagramm (Use Case)](https://de.wikipedia.org/wiki/Anwendungsfalldiagramm)
 
@@ -60,18 +77,37 @@ classH <.. classI : Abhängigkeit
 ### Beispiel
 ![](https://upload.wikimedia.org/wikipedia/commons/5/51/Uml-UseCase-Beispiel2.svg)
 
-### Aufgaben
-* Herbst 2023: Aufgabe 1
+> Prüfung Teil 1 Herbst 23: Aufgabe 1
 
-## Weitere
+> Prüfung AE Winter 21 Planung
 
-### Sequenzdiagramm
+## Sequenzdiagramm
 
 ![](https://upload.wikimedia.org/wikipedia/commons/c/c8/UmlSequenzdiagramm-3.svg)
 
-### [Zustandsdiagramm](https://de.wikipedia.org/wiki/Zustandsdiagramm_(UML))
+> Prüfung SI Winter 21 Analyse Aufgabe 3 [(SSL/TLS)](https://johannesloetzsch.github.io/LF11b/netzwerksicherheit.html)
+
+> Prüfung AE Sommer 22 Planung
+
+> Prüfung AE Winter 23 Umsetzung Aufgabe 1
+
+## [Aktivitätsdiagramm](https://de.wikipedia.org/wiki/Aktivit%C3%A4tsdiagramm)
+
+![](https://upload.wikimedia.org/wikipedia/commons/a/a1/Uml-Activity-Beispiel2.svg)
+
+> Prüfung AE Winter 21 Entwicklung
+
+> Prüfung SI Sommer 22 Konzeption
+
+> Prüfung AE Winter 22 Entwicklung
+
+> Prüfung AE Winter 23 Planung Aufgabe 2c
+
+## [Zustandsdiagramm](https://de.wikipedia.org/wiki/Zustandsdiagramm_(UML))
 
 ![](https://upload.wikimedia.org/wikipedia/commons/2/2d/Uml-Zustandsdiagramm-6.svg)
+
+> Prüfung AE Winter 22 Planung
 
 # [Programmablaufplan (PAP)](https://de.wikipedia.org/wiki/Programmablaufplan) / Flowchart
 
@@ -81,6 +117,10 @@ classH <.. classI : Abhängigkeit
 * (Unterprogramm)
 * Entscheidungen
 * Pfeile
+
+> Prüfung AE Winter 22 Entwicklung
+
+> Prüfung AE Sommer 22 Entwicklung
 
 ### Beispiel
 ![](https://upload.wikimedia.org/wikipedia/commons/6/6b/Flowchart_de.svg)
