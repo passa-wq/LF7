@@ -4,49 +4,85 @@
 
 ```mermaid
 gantt
- title LF7 + PV 2023/24
+ title August (15h)
  dateFormat YYYY-MM-DD
  axisFormat %d.%m.
- section 8h Mo 23.10.
-  Einführung                  :2023-10-23, 8h
- section 8h Mi 25.10.
-  …                           :2023-10-25, 8h
- section 8h Do 26.10.
-  …                           :2023-10-26, 8h
- section 8h Fr 27.10.
-  Klassenarbeit               :milestone, 2023-10-27, 2h
-  …                           :2023-10-27, 4h
-  PV SOL Prüfung Frühjahr 22  :2023-10-27, 2h
- section 5h Mo 27.11.
-  …                           :2023-11-27, 5h
- section 6h Mi 29.11.
-  …                           :2023-11-29, 6h
- section 8h Do 30.11.
-  …                           :2023-11-30, 8h
- section 8h Mo 04.12.
-  …                           :2023-12-04, 7h
- section 5h Di 05.12.
-  …                           :2023-12-05, 5h
- section 8h Do 07.12.
-  Klassenarbeit               :milestone, 2023-12-07, 2h
-  …                           :2023-12-07, 6h
- section 2h Fr 08.12.
-  PV SOL Prüfung Herbst 22    :2023-12-08, 2h
- section 5h Mo 29.01.
-  Q&A, Projektarbeit          :2024-01-29, 5h
- section 5h Di 30.01.
-  Projektarbeit               :2024-01-30, 5h
- section 8h Do 01.02.
-  Projektabschluss            :2024-02-01, 7h
-  PV Fragen                   :2024-02-01, 1h
- section 2h Fr 02.02.
-  PV SOL Prüfung Frühjahr 23 (bis 8.2.) :2024-02-02, 2h
- section 5h Di 06.02.
-  PV (Vergleich Herbst 22)    :2024-02-06, 5h
- section 2h Do 08.02.
-  PV (Vergleich Frühjahr 23)  :2024-02-08, 2h
- section 4h Fr 09.02.
-  PV (Q&A)                    :2024-02-09, 4h
+ section 2h Do 22.08.
+  Einführung                  :2024-08-22, 2h
+ section 4h Fr 23.08.
+  Grundlagen CPS, SOL (Funktionsweise CPU)  :2024-08-23, 4h
+ section 5h Do 29.08.
+  Logische Verknüpfungen, Binäres Rechnen, Praxis Logische Verknüpfungen  :2024-08-29, 5h
+ section 4h Fr 30.08.
+  Von-Neumann-Zyklus          :2024-08-30, 4h
+```
+```mermaid
+gantt
+ title Oktober + November (12h)
+ dateFormat YYYY-MM-DD
+ axisFormat %d.%m.
+ section 3h Mo 21.10.
+  Einführung Arduino          :2024-10-21, 3h
+ section 5h Do 24.10.
+  Praxis Arduino (Simulator)  :2024-10-24, 5h
+ section 4h Fr 01.11.
+  SOL (Git)                   :2024-11-01, 4h
+```
+```mermaid
+gantt
+ title Dezember (17h)
+ dateFormat YYYY-MM-DD
+ axisFormat %d.%m.
+ section 3h Mo 02.12.
+  Rechnernetze / Topologien   :2024-12-02, 3h
+ section 5h Do 05.12.
+  Physikalische Betriebswerte, Berechnung von (Vor-)Widerständen  :2024-12-05, 4h
+ section 2h Fr 06.12.
+  SOL (Vorbereitung Klassenarbeit)  :2024-12-06, 2h
+ section 5h Di 10.12.
+  Wiederholung                :2024-12-10, 4h
+ section 2h Mi 11.12.
+  Klassenarbeit               :milestone, 2024-12-11, 2h
+```
+```mermaid
+gantt
+ title Januar (13h)
+ dateFormat YYYY-MM-DD
+ axisFormat %d.%m.
+ section 5h Do 23.01.
+  UART, I²C, SPI              :2025-01-23, 5h
+ section 4h Fr 24.01.
+  HTTP, SOL                   :2025-01-24, 4h
+ section 4h Fr 31.01.
+  MQTT, SOL                   :2025-01-31, 4h
+```
+```mermaid
+gantt
+ title März (6h)
+ dateFormat YYYY-MM-DD
+ axisFormat %d.%m.
+ section 2h Mi 19.03.
+  Praxisprojekt               :2025-03-19, 2h
+ section 4h Fr 21.03.
+  SOL                         :2025-03-21, 4h
+```
+```mermaid
+gantt
+ title Juni (23h)
+ dateFormat YYYY-MM-DD
+ axisFormat %d.%m.
+ section 3h Mi 04.06.
+  …                           :2025-06-04, 3h
+ section 5h Do 05.06.
+  …                           :2025-06-05, 5h
+ section 5h Mo 16.06.
+  Wiederholung                :2025-06-16, 5h
+ section 5h Do 19.06.
+  Klassenarbeit               :milestone, 2025-06-19, 5h
+ section 2h Fr 20.06.
+  SOL                         :2025-06-20, 2h
+ section 3h Mo 23.06.
+  Projektvorstellungen        :2025-06-23, 3h
 ```
 
 ## Leistungskontrollen
@@ -55,7 +91,8 @@ gantt
 * Minimum Klassenarbeiten (>45min, doppelte Wertung): 2
 * Sonstige Noten: >=3
 
-> * **Fr 27.10. Klassenarbeit** ~90min (einseitig beschrifteter A4 Notizzettel + 1 einfacher Taschenrechner ohne Binärberechnungen)
+> * **1. Klassenarbeit 11.12.** ~90min (einseitig beschrifteter A4 Notizzettel + 1 einfacher Taschenrechner ohne Binärberechnungen)
+    * Grundlagen CPS
 >   * Zweierpotenzen
 >   * Logische Verknüpfungen (Not, And, Or, XOr)
 >     * Wahrheitswertetabelle
@@ -64,68 +101,9 @@ gantt
 >   * Berechnung von (Vor-)Widerständen
 >   * Rechnernetze / Topologien
 
-> * **Do 07.12. Klassenarbeit** ~90min (einseitig beschrifteter A4 Notizzettel)
+> * **2. Klassenarbeit 19.06.** ~90min (einseitig beschrifteter A4 Notizzettel)
 >   * Grundlagen Programmierung (Variablen, While, If/Else)
->   * [Grundlagen Git](https://johannesloetzsch.github.io/linux-praktikum/versionskontrolle.html)
+>   * Grundlagen Git
 >   * OSI-Modell, insbesondere Physical Layer
 >   * UART, I²C, SPI
 >   * HTTP, MQTT
-
-## Checkliste
-
-### Mo 23.10.
-> - [x] Dokumentation mit [hedgedoc](https://hedgedoc.c3d2.de/) und [mdBook](https://rust-lang.github.io/mdBook/)
-> - [x] Git Kurzeinführung (machen wir später noch ausführlicher)
->   * [OhMyGit](https://ohmygit.org/)
-> - [x] Allgemeine Infos (Unterrichtskonzept)
-> - [x] Übersicht LF7 + PV
-> - [x] Grundlagen CPS
-> - [.] Schnittstellen
-
-### Mi 25.10.
-> - [x] Grundlagen digitaler Schaltungen
->   - [x] Logische Verknüpfungen (Not, And, Or, XOr)
->     - [x] Wahrheitswertetabelle
->     - [x] Logik Gatter (Schaltung mit einfachen (Um-)Schaltern)
->     - [x] Logik Gatter mit Resistor-Transistor-Logik
->       - [x] (Halb-)Addierer
->   - [x] Berechnung von (Vor-)Widerständen
-
-### Do 26.10.
-> - [x] Von-Neumann-Zyklus
-> - [x] Rechnernetze -> Bussysteme
-> - [x] Integration -> Schnittstellen
-> -   [.] -> Standards
-
-### Fr 27.10.
-> - [x] Klassenarbeit
-> - [x] Integration -> Schnittstellen -> Standards
-> - [x] Sortieralgorithmen
-> - [x] SOL: Klausuraufgabe
-
-### Mo 27.11. + Mi 29.11.
-> - [x] Einführung Raspberry Pi
-> - [x] GPIO (Leds+Buttons)
-> - [x] Grundlagen Programmierung
-
-### Do 30.11.
-> - [x] Vorstellung von Ergebnissen vom 29.11.
-> - [x] OSI Modell
-> - [x] Bitübertragung
-> - [x] UART, I²C, SPI
-> - [x] Vorschläge für weitere Raspberry-Projekte
-> - [x] Zeit für Praxisprojekte mit Raspberry Pi
-
-### Mo 4.12.
-> - [x] HTTP, MQTT
-> - [x] [Grundlagen Git](https://johannesloetzsch.github.io/linux-praktikum/versionskontrolle.html)
-> - [x] Praxis: CTF, Git, Arduino
-### Di 5.12.
-> - [x] Wiederholung für Klassenarbeit
-> - [x] Arduino (PlatformIO)
-> - [x] Zeit für Praxisprojekte
-### Do 7.12.
-> - [x] Klassenarbeit
-> - [x] Zeit für Praxisprojekte
-### Fr 8.12.
-> - [x] SOL: Klausuraufgabe

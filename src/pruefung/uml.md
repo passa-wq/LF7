@@ -79,6 +79,10 @@ classH <.. classI : Abhängigkeit
 
 > Prüfung Teil 1 Herbst 23: Aufgabe 1
 
+> Prüfung AE Sommer 09 <!-- Fahrradkurier -->
+
+> Prüfung AE Winter 16, Aufgabe 1  <!-- Wings GmbH -->
+
 > Prüfung AE Winter 21 Planung
 
 ## Sequenzdiagramm
@@ -93,7 +97,7 @@ classH <.. classI : Abhängigkeit
 
 ## [Aktivitätsdiagramm](https://de.wikipedia.org/wiki/Aktivit%C3%A4tsdiagramm)
 
-![](https://upload.wikimedia.org/wikipedia/commons/a/a1/Uml-Activity-Beispiel2.svg)
+![](https://upload.wikimedia.org/wikipedia/commons/c/c2/Uml-Activity-Beispiel1.svg)
 
 > Prüfung AE Winter 21 Entwicklung
 

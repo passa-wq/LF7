@@ -52,62 +52,36 @@ flowchart LR
 
 ![IIoT](https://upload.wikimedia.org/wikipedia/commons/d/d9/IIoT_Architecture.png)
 
-### „Aus Sicht der Physik“
-
-```mermaid
-flowchart LR
-  subgraph PS[Physisches System]
-    subgraph Welt[Welt]
-      subgraph Materie[Materie]
-        subgraph IT-System
-          Maschine1 <-..-> Maschine2
-        end
-        Mensch
-        Maschine1 <-..-> Mensch
-        Maschine2 <-..-> Mensch
-      end
-      Energie([Energie])
-    end
-    Energie([Energie]) <-..-> Materie([Materie])
-    Regeln{{Physikalische Großen und Regeln}}
-    Regeln --> Energie
-    Regeln --> Mensch
-    Regeln --> Maschine1
-    Regeln --> Maschine2
-  end
-```
 
 ### „Aus Sicht eines [Prozessors](https://de.wikipedia.org/wiki/Prozessor#Verarbeitung_eines_einzelnen_Befehls)“
 (**Rechnerarchitektur** / **Prozessorarchitektur**)
 
-> IHK-Zwischenprüfung 2018: Aufgabe 2.2
+> IHK-Zwischenprüfung Herbst 2018: Aufgabe 2.2
 
 #### stark vereinfacht
 
 ```mermaid
-flowchart TB
-subgraph Welt
-  subgraph Computersystem
-    Arbeitsspeicher
-    subgraph Devices
-      subgraph Peripherie
-        Speichermedien
-        Netzwerkkarten
-        HID[Human Interface Device]
-      end
-      Controller
-      Koprozessoren
+flowchart LR
+subgraph Computersystem
+  Arbeitsspeicher
+  subgraph Devices
+    subgraph Peripherie
+      Speichermedien
+      Netzwerkkarten
+      HID[Human Interface Device]
     end
-    subgraph Prozessor
-      Bus <--> Register
-      Bus <--> Rechenwerk <--> Register
-      Bus <--> Steuerwerk <--> Register
-      Steuerwerk <--> Rechenwerk
-    end
+    Controller
+    Koprozessoren
   end
-  Arbeitsspeicher <--> Bus
-  Devices <--> Bus
+  subgraph Prozessor
+    Bus <--> Register
+    Bus <--> Rechenwerk <--> Register
+    Bus <--> Steuerwerk <--> Register
+    Steuerwerk <--> Rechenwerk
+  end
 end
+Arbeitsspeicher <--> Bus
+Devices <--> Bus
 ```
 
 [![cpu](https://upload.wikimedia.org/wikipedia/commons/3/3a/ABasicComputer.svg)](https://en.wikipedia.org/wiki/Central_processing_unit#Structure_and_implementation)
