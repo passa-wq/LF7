@@ -24,3 +24,11 @@
 * Sensornetze
 * Internet-Infrastruktur
 * Echtzeitverarbeitung
+
+## [„Industrie 4.0“](https://de.wikipedia.org/wiki/Industrie_4.0)
+1. industrielle Revolution bestand in der Mechanisierung mittels Wasser- und Dampfkraft
+2. industrielle Revolution geprägt durch Massenfertigung mit Hilfe von Fließbändern und elektrischer Energie
+3. industrielle Revolution oder digitale Revolution mit Einsatz von Elektronik und IT (v. a. die speicherprogrammierbare Steuerung und die CNC-Maschine)
+4. industrielle Revolution: [Smart Factory](https://de.wikipedia.org/wiki/Smart_Factory) und [**I**ndustrial **i**nternet **o**f **t**hings](https://en.wikipedia.org/wiki/Industrial_internet_of_things)
+
+

@@ -5,6 +5,7 @@
   * [Literatur](./literatur.md)
 * [Grundlagen CPS](./grundlagen.md)
   * [Schnittstellen](./schnittstellen.md)
+  * [Prozessoren](./prozessor.md)
 * [Rechnernetze](./rechnernetze.md)
 * [Integration](./integration.md)
   * [Standards](./standards.md)

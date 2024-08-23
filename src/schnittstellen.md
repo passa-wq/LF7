@@ -1,6 +1,6 @@
 # Schnittstellen
 
-## Mensch — Cyber — Physik ???
+ Wie kommunizieren **Mensch**, „**Cyber**“ und **Physik** miteinander?
 
 ### „Aus CPS-Sicht“
 
@@ -11,20 +11,16 @@ flowchart LR
   Mensch <--HCI--> Cyber
   subgraph CPS[Cyber-physisches System]
     subgraph Cyber[Cyber System]
-      Maschine1 <--M2M--> Maschine2
+      Computer1 <--M2M--> Computer2
     end
     subgraph PS[Physisches System]
       subgraph Schnittstelle
         Aktuator
         Sensor
       end
-      subgraph Industrie[Industrie 2.0]
-        Maschine0.1
-        Maschine0.2
-      end
-      subgraph Welt[Rest der Welt]
-        Materie([Materie])
-        Energie([Energie])
+      subgraph I[Geräte / Anlagen]
+        Maschine1
+        Maschine2
       end
     end
     PS --messen--> Cyber
@@ -43,14 +39,6 @@ flowchart LR
 
 #### CPS
 (**C**yber-**p**hysical **s**ystem)
-
-#### [„Industrie 4.0“](https://de.wikipedia.org/wiki/Industrie_4.0)
-1. industrielle Revolution bestand in der Mechanisierung mittels Wasser- und Dampfkraft
-2. industrielle Revolution geprägt durch Massenfertigung mit Hilfe von Fließbändern und elektrischer Energie
-3. industrielle Revolution oder digitale Revolution mit Einsatz von Elektronik und IT (v. a. die speicherprogrammierbare Steuerung und die CNC-Maschine)
-4. industrielle Revolution: [Smart Factory](https://de.wikipedia.org/wiki/Smart_Factory) und [**I**ndustrial **i**nternet **o**f **t**hings](https://en.wikipedia.org/wiki/Industrial_internet_of_things)
-
-![IIoT](https://upload.wikimedia.org/wikipedia/commons/d/d9/IIoT_Architecture.png)
 
 
 ### „Aus Sicht eines [Prozessors](https://de.wikipedia.org/wiki/Prozessor#Verarbeitung_eines_einzelnen_Befehls)“
@@ -135,20 +123,6 @@ flowchart TB
 
 ##### [GPIO](https://de.wikipedia.org/wiki/GPIO)
 (**G**eneral **P**urpose **I**nput/**O**utput)
-
-[![cpu](https://upload.wikimedia.org/wikipedia/commons/2/2c/Proz1-d.png)](https://de.wikipedia.org/wiki/Prozessor#Verarbeitung_eines_einzelnen_Befehls)
-
-#### [Von-Neumann-Zyklus](https://de.wikipedia.org/wiki/Von-Neumann-Zyklus)
-1. `FETCH` (Befehlsabruf):
-    * Nächsten Befehl (entsprechend Adresse im Befehlszähler) aus Arbeitsspeicher in das Befehlsregister laden und Befehlszähler inkrementieren
-2. `DECODE`(Dekodierung):
-    * Der Befehl wird durch das Steuerwerk in Schaltinstruktionen für das Rechenwerk aufgelöst
-3. `FETCH OPERANDS`(Operandenabruf):
-    * Operanden werden aus dem Speicher laden
-4. `EXECUTE` (Befehlsausführung):
-    * Arithmetische oder logische Operation wird vom Rechenwerk berechnet. *(Bei Sprungbefehlen und erfüllter Sprungbedingung wird der Befehlszähler angepasst)*
-5. `WRITE BACK` (Rückschreiben des Resultats): Ergebnis der Berechnung wird in den Speicher zurückgeschrieben *(falls nötig)*
-
 
 
 > Was ist die „richtige“ Sichtweise?
