@@ -15,12 +15,21 @@
 > 6. Zeichnen oder beschreiben Sie eine Schaltung, wie ein Halbaddierer aus einfachen Logikgattern aufgebaut werden kann.
 > 7. Finden Sie Möglichkeiten, wie Logikgatter mittels Murmeln, Wasser oder in Minecraft aufgebaut werden können?
 
-> 
 
+## [Transistoren](https://de.wikipedia.org/wiki/Bipolartransistor)
+
+![npn](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Diagrama_de_Transistor_NPN.svg/220px-Diagrama_de_Transistor_NPN.svg.png)
+
+![npn](https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/NPN_BJT_-_Structure_%26_circuit.svg/500px-NPN_BJT_-_Structure_%26_circuit.svg.png)
+
+
+## [Gatter](https://www.leisering.net/4bit_va/inhaltsverzeichnis.html#anhb)
+
+
+## [Von-Neumann-Zyklus](https://de.wikipedia.org/wiki/Von-Neumann-Zyklus)
 
 [![cpu](https://upload.wikimedia.org/wikipedia/commons/2/2c/Proz1-d.png)](https://de.wikipedia.org/wiki/Prozessor#Verarbeitung_eines_einzelnen_Befehls)
 
-#### [Von-Neumann-Zyklus](https://de.wikipedia.org/wiki/Von-Neumann-Zyklus)
 1. `FETCH` (Befehlsabruf):
     * Nächsten Befehl (entsprechend Adresse im Befehlszähler) aus Arbeitsspeicher in das Befehlsregister laden und Befehlszähler inkrementieren
 2. `DECODE`(Dekodierung):
