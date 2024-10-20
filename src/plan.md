@@ -22,25 +22,25 @@ gantt
  dateFormat YYYY-MM-DD
  axisFormat %d.%m.
  section 3h Mo 21.10.
-  Einführung Arduino          :2024-10-21, 3h
- section 5h Do 24.10.
-  Praxis Arduino (Simulator)  :2024-10-24, 5h
+  Einführung Mikrocontroller  :2024-10-21, 3h
+ section 3h Do 30.10.
+  Praxis Arduino (Simulator)  :2024-10-24, 3h
  section 4h Fr 01.11.
-  SOL (Git)                   :2024-11-01, 4h
+  Einführung Git              :2024-11-01, 2h
+  SOL (Git)                   :2024-11-01, 2h
 ```
 ```mermaid
 gantt
  title Dezember (17h)
  dateFormat YYYY-MM-DD
  axisFormat %d.%m.
- section 3h Mo 02.12.
-  Rechnernetze / Topologien   :2024-12-02, 3h
  section 5h Do 05.12.
   Physikalische Betriebswerte, Berechnung von (Vor-)Widerständen  :2024-12-05, 4h
- section 2h Fr 06.12.
-  SOL (Vorbereitung Klassenarbeit)  :2024-12-06, 2h
- section 5h Di 10.12.
-  Wiederholung                :2024-12-10, 4h
+ section 4h Fr 06.12.
+  Wiederholung                :2024-12-06, 2h
+  SOL (Rechnernetze / Topologien + Vorbereitung Klassenarbeit)  :2024-12-06, 2h
+ section 2h Di 10.12.
+  Fragen zur Klassenarbeit    :2024-12-10, 2h
  section 2h Mi 11.12.
   Klassenarbeit               :milestone, 2024-12-11, 2h
 ```
@@ -49,12 +49,18 @@ gantt
  title Januar (13h)
  dateFormat YYYY-MM-DD
  axisFormat %d.%m.
+ section 3h Do 22.01.
+  OSI-Modell (Physical Layer) :2025-01-23, 3h
  section 5h Do 23.01.
   UART, I²C, SPI              :2025-01-23, 5h
  section 4h Fr 24.01.
-  HTTP, SOL                   :2025-01-24, 4h
+  HTTP, MQTT                  :n2025-01-24, 2h
+  SOL (Vorbereitung Klassenarbeit)  :2025-01-24, 2h
+ section 3h Di 28.01.
+  Wiederholung                :2025-01-23, 3h
  section 4h Fr 31.01.
-  MQTT, SOL                   :2025-01-31, 4h
+  Klassenarbeit               :milestone, 2025-01-31, 2h
+  SOL (Projektplanung)        :2025-01-31, 2h
 ```
 ```mermaid
 gantt
@@ -64,7 +70,8 @@ gantt
  section 2h Mi 19.03.
   Praxisprojekt               :2025-03-19, 2h
  section 4h Fr 21.03.
-  SOL                         :2025-03-21, 4h
+  …                           :2025-03-21, 2h
+  SOL                         :2025-03-21, 2h
 ```
 ```mermaid
 gantt
@@ -76,11 +83,11 @@ gantt
  section 5h Do 05.06.
   …                           :2025-06-05, 5h
  section 5h Mo 16.06.
-  Wiederholung                :2025-06-16, 5h
+  …                           :2025-06-16, 5h
  section 5h Do 19.06.
-  Klassenarbeit               :milestone, 2025-06-19, 5h
+  …                           :2025-06-19, 5h
  section 2h Fr 20.06.
-  SOL                         :2025-06-20, 2h
+  SOL (Projektabschluss)      :2025-06-20, 2h
  section 3h Mo 23.06.
   Projektvorstellungen        :2025-06-23, 3h
 ```
@@ -92,7 +99,7 @@ gantt
 * Sonstige Noten: >=3
 
 > * **1. Klassenarbeit 11.12.** ~90min (einseitig beschrifteter A4 Notizzettel + 1 einfacher Taschenrechner ohne Binärberechnungen)
-    * Grundlagen CPS
+>   * Grundlagen CPS
 >   * Zweierpotenzen
 >   * Logische Verknüpfungen (Not, And, Or, XOr)
 >     * Wahrheitswertetabelle
@@ -100,10 +107,10 @@ gantt
 >   * Von-Neumann-Zyklus
 >   * Berechnung von (Vor-)Widerständen
 >   * Rechnernetze / Topologien
-
-> * **2. Klassenarbeit 19.06.** ~90min (einseitig beschrifteter A4 Notizzettel)
->   * Grundlagen Programmierung (Variablen, While, If/Else)
 >   * Grundlagen Git
+
+> * **2. Klassenarbeit 31.01.** ~90min (einseitig beschrifteter A4 Notizzettel)
 >   * OSI-Modell, insbesondere Physical Layer
 >   * UART, I²C, SPI
 >   * HTTP, MQTT
+>   * Grundlagen Programmierung (Variablen, While, If/Else)
