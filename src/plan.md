@@ -23,7 +23,7 @@ gantt
  axisFormat %d.%m.
  section 3h Mo 21.10.
   Einführung Mikrocontroller  :2024-10-21, 3h
- section 3h Do 30.10.
+ section 3h Mi 30.10.
   Praxis Arduino (Simulator)  :2024-10-24, 3h
  section 4h Fr 01.11.
   Einführung Git              :2024-11-01, 2h

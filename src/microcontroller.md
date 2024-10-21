@@ -10,7 +10,7 @@
 * Espressif [ESP8266](https://de.wikipedia.org/wiki/ESP8266) ([NodeMCU](https://de.wikipedia.org/wiki/NodeMCU)), [ESP32](https://de.wikipedia.org/wiki/ESP32)
   * 32bit Wi-Fi Controller
 
-* STMicroelectronics[STM32](https://en.wikipedia.org/wiki/STM32)
+* STMicroelectronics [STM32](https://en.wikipedia.org/wiki/STM32)
   * 32bit ARM Cortex-M
 
 * Raspberry Pi Foundation [RP2040](https://de.wikipedia.org/wiki/RP2040)
@@ -19,7 +19,7 @@
 
 ## Für Mikrocontroller häufig verwendete Programmiersprachen
 
-* C, C++ -> [Arduino Sketches](https://docs.arduino.cc/learn/programming/sketches/)
+* C, C++ ([*Ardu*ino *Sketches*](https://docs.arduino.cc/learn/programming/sketches/))
 * [Rust](https://docs.rust-embedded.org/book/)
 * [MicroPython](https://docs.micropython.org/en/latest/esp32/quickref.html)
 
@@ -38,11 +38,17 @@
 * [PlatformIO](https://platformio.org/)
 
 ```bash
-git clone https://github.com/platformio/platform-espressif32.git
-cd platform-espressif32/examples/arduino-wifiscan
-pio run -e esp320 --target upload
-pio device monitor
+pio device list
+
+git clone https://github.com/platformio/platform-espressif8266  ## oder platform-espressif32
+cd platform-*/examples/arduino-wifiscan
+pio run --target upload -e nodemcuv2  ## für esp8266mod-12-F
+pio run --target upload -e esp-wrover-kit  ## für esp-WROOM-32
+
+pio device monitor -b 115200
 ```
+
+[platformio.ini](./microcontroller/platformio.ini) für die ESPs der Schule
 
 
 ## [Simulator](https://wokwi.com/)
