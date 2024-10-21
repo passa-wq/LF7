@@ -1,5 +1,5 @@
 # [Mikrocontroller](https://de.wikipedia.org/wiki/Mikrocontroller)
-(µC, MCU)
+(µController, µC, MCU)
 
 ## Mikrocontroller vs [SoC](https://de.wikipedia.org/wiki/System-on-a-Chip) vs [Einplatinencomputer](https://de.wikipedia.org/wiki/Einplatinencomputer)
 
