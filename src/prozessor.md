@@ -134,3 +134,5 @@ cargo objdump -- -S target/thumbv7m-none-eabi/debug/deps/blinky_rust-* | grep -m
  800019c: f000 fc27    	bl	0x80009ee <<stm32f1xx_hal::delay::Delay as embedded_hal::blocking::delay::DelayMs<u16>>::delay_ms::h9fb44941d1d2b02b> @ imm = #0x84e
  80001a0: e7e9         	b	0x8000176 <main_loop+0xa> @ imm = #-0x2e
 ```
+
+## [bare-metal-programming](https://github.com/cpq/bare-metal-programming-guide)
