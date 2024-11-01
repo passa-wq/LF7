@@ -15,7 +15,7 @@
 * Logistik, Verkehrssteuerung
 * E-Health
 * Sicherheits- & Fahrerassistenzsysteme
-
+* Frühwarnsysteme für Katastrophenschutz (Bsp. [Tsunami](https://de.wikipedia.org/wiki/German_Indonesian_Tsunami_Early_Warning_System))
 > Wie grenzen sich CPS von IOT und Robotik ab?
 
 ## Relevante Technologien
