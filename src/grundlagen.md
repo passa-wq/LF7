@@ -17,6 +17,8 @@
 * Sicherheits- & Fahrerassistenzsysteme
 * Frühwarnsysteme für Katastrophenschutz (Bsp. [Tsunami](https://de.wikipedia.org/wiki/German_Indonesian_Tsunami_Early_Warning_System))
 > Wie grenzen sich CPS von IOT und Robotik ab?
+* IOT und Robotik sind den Cyber physischen Systemen untergeordnet
+* IOT = Sammelbegriff für die unterschiedlichsten Technologien einer globalen Infrastruktur der Informationsgesellschaften. Vernetzt physische und virtuelle Objekte miteinander und lassen sie zusammenarbeiten.
 
 ## Relevante Technologien
 
