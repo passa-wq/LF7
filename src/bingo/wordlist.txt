@@ -89,3 +89,4 @@ Sensorik und Aktuatorik
 Selbstheilende Systeme
 Virtuelle Produktionssimulation
 CPS-Überwachungssysteme
+Freibier
