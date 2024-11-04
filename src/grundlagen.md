@@ -2,6 +2,8 @@
 
 > Was sind Cyber-physische Systeme?
 
+> Ein CPS ist eine Verbindung einer Software mit mechanischen Bauteilen, die miteinander kommunizieren. Sprich ein CPS verbindet die virtuelle Welt mit der realen.
+
 > Was ist „Cyber“ und wo kommt das Wort her?
 
 ![Cybersicherheitsarchitektur](https://cdn.netzpolitik.org/wp-upload/2020/06/SNV-Cybersicherheitsarchitektur-1536x864.jpg)
