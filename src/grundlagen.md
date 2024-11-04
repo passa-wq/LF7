@@ -15,15 +15,24 @@
 * Logistik, Verkehrssteuerung
 * E-Health
 * Sicherheits- & Fahrerassistenzsysteme
+* Frühwarnsysteme für Katastrophenschutz (Bsp. [Tsunami](https://de.wikipedia.org/wiki/German_Indonesian_Tsunami_Early_Warning_System))
 
 > Wie grenzen sich CPS von IOT und Robotik ab?
 
+* IOT und Robotik sind den Cyber physischen Systemen untergeordnet
+* IOT = Sammelbegriff für die unterschiedlichsten Technologien einer globalen Infrastruktur der Informationsgesellschaften. Vernetzt physische und virtuelle Objekte miteinander und lassen sie zusammenarbeiten.
+* CPS vs. IoT: CPS betont die Integration und Interaktion zwischen physischen und digitalen Komponenten, während IoT sich auf die Vernetzung und den Datenaustausch zwischen Geräten konzentriert.
+* CPS vs. Robotik: CPS umfasst eine breitere Palette von Anwendungen, die über die reine Robotik hinausgehen, einschließlich eingebetteter Systeme und industrieller Steuerungen
+
 ## Relevante Technologien
 
-* Eingebettete Systeme
-* Sensornetze
-* Internet-Infrastruktur
-* Echtzeitverarbeitung
+* Eingebettete Systeme = sind Computer Systeme die Verbaut sind für ein bestimmten anwendungsfall (z.B. Kassensysteme)
+
+* Sensornetze = sind ein Verbund aus Sensoren in einem bestimmten Bereich
+
+* Internet-Infrastruktur = Geräte werden mit Internet ausgestattet und Verbunden
+
+* Echtzeitverarbeitung = Daten werden Echtzeit verarbeitet, wie Verkehrsdaten wo welches Auto sind
 
 ## [„Industrie 4.0“](https://de.wikipedia.org/wiki/Industrie_4.0)
 1. industrielle Revolution bestand in der Mechanisierung mittels Wasser- und Dampfkraft
