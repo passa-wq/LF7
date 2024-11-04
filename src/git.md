@@ -1,5 +1,7 @@
 # Git
 
+* [Download zu Git](https://git-scm.com/)
+
 * [Die wichtigsten Git Befehle](https://johannesloetzsch.github.io/LF10b/versionierung.html)
 
 * [OhMyGit — spielerisch Git lernen](https://ohmygit.org/)
