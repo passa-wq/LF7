@@ -13,7 +13,7 @@
 
 ## Ports
 
-* **80** Standartport HTTP://
+* **80** Standardport HTTP://
 * 443 HTTPS://
 
 ## Methoden (Verben)

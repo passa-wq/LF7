@@ -3,6 +3,29 @@
 
 ## Mikrocontroller vs [SoC](https://de.wikipedia.org/wiki/System-on-a-Chip) vs [Einplatinencomputer](https://de.wikipedia.org/wiki/Einplatinencomputer)
 
+## Microcontroller
+>Vorteile:
+>1.	Kostengünstig: Microcontroller sind in der kostensensitive Projekte macht.
+>2.	Energieeffizient: Sie verbrauchen wenig Strom, was sie perfekt für batteriebetriebene Anwendungen macht.
+>3.	Einfache Integration: Microcontroller sind oft leicht in bestehende Systeme zu integrieren und benötigen nur minimale externe Komponenten.
+
+>Nachteile:
+>1.	Begrenzte Rechenleistung: Sie haben weniger Rechenleistung und Speicher im Vergleich zu Einplatinencomputern.
+>2.	Eingeschränkte Funktionalität: Microcontroller sind für spezifische Aufgaben ausgelegt und bieten weniger Flexibilität für komplexe Anwendungen.
+>3.	Weniger Peripherieoptionen: Sie haben oft weniger Schnittstellen und Peripheriegeräte im Vergleich zu Einplatinencomputern.
+
+## Einplatinencomputer
+
+>Vorteile:
+>1.	Hohe Rechenleistung: Einplatinencomputer wie der Raspberry Pi bieten deutlich mehr Rechenleistung und Speicher.
+>2.	Vielseitigkeit: Sie können eine Vielzahl von Betriebssystemen ausführen und sind für komplexe Anwendungen geeignet.
+>3.	Erweiterbarkeit: Einplatinencomputer bieten zahlreiche Schnittstellen und Peripheriegeräte, was sie sehr flexibel macht.
+
+>Nachteile:
+>1.	Höherer Stromverbrauch: Sie verbrauchen mehr Strom als Microcontroller, was sie weniger geeignet für batteriebetriebene Anwendungen macht.
+>2.	Kosten: Einplatinencomputer sind in der Regel teurer als Microcontroller.
+>3.	Komplexität: Die Einrichtung und Programmierung kann komplexer sein, was eine steilere Lernkurve bedeutet.
+
 ## [Beispiele bekannter Mikrocontrollern](https://de.wikipedia.org/wiki/Liste_von_Mikrocontrollern)
 * Atmel [ATtiny, ATmega](https://de.wikipedia.org/wiki/Microchip_AVR)
   * 8bit AVR
