@@ -2,13 +2,13 @@
 (µController, µC, MCU)
 
 ## Mikrocontroller vs [SoC](https://de.wikipedia.org/wiki/System-on-a-Chip) vs [Einplatinencomputer](https://de.wikipedia.org/wiki/Einplatinencomputer)
->Erklärung Mikrocontroller in [Videoform](https://www.youtube.com/watch?v=xd6oA8UiG7s) (Eingefügt von Lucas Kloss, nochmal gegenprüfen)
+>Erklärung Mikrocontroller in [Videoform](https://www.youtube.com/watch?v=xd6oA8UiG7s)
 
->Erklärung SoC in [Videoform](https://www.youtube.com/watch?v=L4XemL7t6hg) (Eingefügt von Lucas Kloss, nochmal gegenprüfen)
+>Erklärung SoC in [Videoform](https://www.youtube.com/watch?v=L4XemL7t6hg)
 
 ## Microcontroller
 >Vorteile:
->1.	Kostengünstig: Microcontroller werden in kostensensitiven Projekte eingesetzt. (abgeändert Lucas Kloss)
+>1.	Kostengünstig: Microcontroller werden in kostensensitiven Projekte eingesetzt.
 >2.	Energieeffizient: Sie verbrauchen wenig Strom, was sie perfekt für batteriebetriebene Anwendungen macht.
 >3.	Einfache Integration: Microcontroller sind oft leicht in bestehende Systeme zu integrieren und benötigen nur minimale externe Komponenten.
 
@@ -17,7 +17,7 @@
 >2.	Eingeschränkte Funktionalität: Microcontroller sind für spezifische Aufgaben ausgelegt und bieten weniger Flexibilität für komplexe Anwendungen.
 >3.	Weniger Peripherieoptionen: Sie haben oft weniger Schnittstellen und Peripheriegeräte im Vergleich zu Einplatinencomputern.
 
-## SoC  (eingefügt Lucas KLoss)
+## SoC 
 >Vorteile:
 >1. Hohe Integration: CPU, GPU, Speicher, und Peripheriegeräte auf einem Chip (kompakte Bauweise).
 >2. Energieeffizienz: Optimierter Stromverbrauch durch Integration und geringere Kommunikationsverluste.
