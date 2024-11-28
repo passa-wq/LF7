@@ -2,7 +2,8 @@
 (µController, µC, MCU)
 
 ## Mikrocontroller vs [SoC](https://de.wikipedia.org/wiki/System-on-a-Chip) vs [Einplatinencomputer](https://de.wikipedia.org/wiki/Einplatinencomputer)
->Erklärung Mikrocontroller in [Videoform](https://www.youtube.com/watch?v=xd6oA8UiG7s) (Eingefügt von Lucas Kloss, nochmal gegenprüfen).
+>Erklärung Mikrocontroller in [Videoform](https://www.youtube.com/watch?v=xd6oA8UiG7s) (Eingefügt von Lucas Kloss, nochmal gegenprüfen)
+
 >Erklärung SoC in [Videoform](https://www.youtube.com/watch?v=L4XemL7t6hg) (Eingefügt von Lucas Kloss, nochmal gegenprüfen)
 
 ## Microcontroller
