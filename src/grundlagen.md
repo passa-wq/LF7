@@ -13,7 +13,7 @@
 ## Anwendungsfelder
 
 * Industrie 4.0 = ist die Bezeichnung für Projekte zur umfassenden Digitalisierung der industriellen Produktion.
-* Smart Grids
+* Smart Grids (deutsch: Intelligentes Stromnetz)
 * Logistik, Verkehrssteuerung
 * E-Health
 * Sicherheits- & Fahrerassistenzsysteme
