@@ -74,3 +74,21 @@ e) commiten und pushen Sie die Änderungen
 
 f) stellen Sie mir einen Pull-Request (das reicht als Abgabe)
 ```
+
+SOL - Definition Musterlösung
+
+```
+git init - Initialisiert ein neues lokales und leeres Git-Repository.
+
+git clone - Klont ein Repository in ein neues Verzeichnis. Dieses muss/wird mit der URL des Repositorys angegeben.
+
+git status - Zeigt den Status des Arbeitsverzeichnisses und des Staging-Bereichs an. Es zeigt an, welche Dateien geändert wurden, welche Dateien zum Staging-Bereich hinzugefügt wurden und welche Dateien im Staging-Bereich sind.
+
+git add - Fügt Dateien zum Staging-Bereich hinzu. Es gibt verschiedene Möglichkeiten, Dateien hinzuzufügen.
+
+git diff - Zeigt die Unterschiede zwischen zwei Commits, zwischen einem Commit und dem Arbeitsverzeichnis oder zwischen zwei Branches an.
+
+git commit - Erstellt einen neuen Commit. Dieser Commit ist nur lokal verfügbar und muss mit git push auf den Remote-Server hochgeladen werden.
+
+git restore - Stellt Dateien aus dem Staging-Bereich oder dem letzten Commit wieder her.
+```
