@@ -78,9 +78,9 @@ f) stellen Sie mir einen Pull-Request (das reicht als Abgabe)
 SOL - Definition Musterlösung
 
 ```
-git init - Initialisiert ein neues Git-Repository.
+git init - Initialisiert ein neues lokales und leeres Git-Repository.
 
-git clone - Klont ein Repository in ein neues Verzeichnis. Dieses muss wird mit der URL des Repositorys angegeben.
+git clone - Klont ein Repository in ein neues Verzeichnis. Dieses muss/wird mit der URL des Repositorys angegeben.
 
 git status - Zeigt den Status des Arbeitsverzeichnisses und des Staging-Bereichs an. Es zeigt an, welche Dateien geändert wurden, welche Dateien zum Staging-Bereich hinzugefügt wurden und welche Dateien im Staging-Bereich sind.
 
