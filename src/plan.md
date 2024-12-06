@@ -99,14 +99,14 @@ gantt
 * Sonstige Noten: >=3
 
 > * **1. Klassenarbeit 11.12.** ~90min (einseitig beschrifteter A4 Notizzettel + 1 einfacher Taschenrechner ohne Binärberechnungen)
->   * [Grundlagen CPS](grundlagen.md)
+>   * [Grundlagen CPS](grundlagen.md), einschließlich [Schnittstellen](schnittstellen.md)
 >   * [Rechnen mit Binärzahlen, Zweierpotenzen](binary.md)
 >   * [Logische Verknüpfungen](./prozessor.md#Logikgatter) (Not, And, Or, XOr)
 >     * Wahrheitswertetabelle
 >     * Logik Gatter (Schaltung mit einfachen (Um-)Schaltern)
->   * Von-Neumann-Zyklus
+>   * ~~Von-Neumann-Zyklus~~
 >   * Berechnung von (Vor-)Widerständen
->   * Rechnernetze / Topologien
+>   * [Rechnernetze / Topologien](rechnernetze.md)
 >   * [Grundlagen Git](./git.md)
 
 > * **2. Klassenarbeit 31.01.** ~90min (einseitig beschrifteter A4 Notizzettel)
