@@ -99,8 +99,8 @@ gantt
 * Sonstige Noten: >=3
 
 > * **1. Klassenarbeit 11.12.** ~90min (einseitig beschrifteter A4 Notizzettel + 1 einfacher Taschenrechner ohne Binärberechnungen)
->   * Grundlagen CPS
->   * Zweierpotenzen
+>   * [Grundlagen CPS](grundlagen.md)
+>   * [Rechnen mit Binärzahlen, Zweierpotenzen](binary.md)
 >   * [Logische Verknüpfungen](./prozessor.md#Logikgatter) (Not, And, Or, XOr)
 >     * Wahrheitswertetabelle
 >     * Logik Gatter (Schaltung mit einfachen (Um-)Schaltern)
