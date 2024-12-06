@@ -101,13 +101,13 @@ gantt
 > * **1. Klassenarbeit 11.12.** ~90min (einseitig beschrifteter A4 Notizzettel + 1 einfacher Taschenrechner ohne Binärberechnungen)
 >   * Grundlagen CPS
 >   * Zweierpotenzen
->   * Logische Verknüpfungen (Not, And, Or, XOr)
+>   * [Logische Verknüpfungen](./prozessor.md#Logikgatter) (Not, And, Or, XOr)
 >     * Wahrheitswertetabelle
 >     * Logik Gatter (Schaltung mit einfachen (Um-)Schaltern)
 >   * Von-Neumann-Zyklus
 >   * Berechnung von (Vor-)Widerständen
 >   * Rechnernetze / Topologien
->   * Grundlagen Git
+>   * [Grundlagen Git](./git.md)
 
 > * **2. Klassenarbeit 31.01.** ~90min (einseitig beschrifteter A4 Notizzettel)
 >   * OSI-Modell, insbesondere Physical Layer

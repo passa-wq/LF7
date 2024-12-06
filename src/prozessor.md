@@ -1,5 +1,13 @@
 # Prozessoren
 
+## [Logikgatter](https://de.wikipedia.org/wiki/Logikgatter)
+
+* [NOT](https://de.wikipedia.org/wiki/Nicht-Gatter)
+* [AND](https://de.wikipedia.org/wiki/Und-Gatter)
+* [OR](https://de.wikipedia.org/wiki/Oder-Gatter)
+* [XOR](https://de.wikipedia.org/wiki/Exklusiv-Oder-Gatter)
+
+
 > SOL „Funktionsweise von Prozessoren“
 >
 > Erkundigen Sie sich selbstständig darüber, wie es möglich ist, mittels Maschinen zu rechnen.
@@ -22,8 +30,7 @@
 
 ![npn](https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/NPN_BJT_-_Structure_%26_circuit.svg/500px-NPN_BJT_-_Structure_%26_circuit.svg.png)
 
-
-## [Gatter](https://www.leisering.net/4bit_va/inhaltsverzeichnis.html#anhb)
+[Aufbau von Gattern und Addierer mit BJT-Transistioren](https://www.leisering.net/4bit_va/inhaltsverzeichnis.html#anhb)
 
 
 ## [Von-Neumann-Zyklus](https://de.wikipedia.org/wiki/Von-Neumann-Zyklus)
