@@ -19,6 +19,3 @@
   * [Git](git.md)
   * [Raspberry Pi](pi.md)
   * [Microcontroller](microcontroller.md)
- 
-* Cooles Game zum Lernen: Turing Complete
-  
