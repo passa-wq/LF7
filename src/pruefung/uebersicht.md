@@ -11,6 +11,10 @@
 
 ## Inhalte alter Prüfungen
 
+* [Themen der bisherigen IHK-Prüfungen (video)](https://www.youtube.com/watch?v=IqiOvyor1OQ)
+* [Themen der bisherigen IHK-Prüfungen (liste)](https://it-berufe-podcast.de/vorbereitung-auf-die-ihk-abschlusspruefung-der-it-berufe/themen-der-schriftlichen-ihk-pruefungen-der-it-berufe/)
+
+
 | Thema                                           | H18                                                             | H19                                      | H20                                                                 | H21                                                                              | F22                                                   | H22                                       | F23                                                  | H23                                                                   |
 |-------------------------------------------------|-----------------------------------------------------------------|------------------------------------------|---------------------------------------------------------------------|----------------------------------------------------------------------------------|-------------------------------------------------------|-------------------------------------------|------------------------------------------------------|-----------------------------------------------------------------------|
 | LF1 (Arbeitsplatz)                              | 4) Gefährenzeichen                                              | 1) Markt, 2) RAM                         | 1) Kosten, 2) CPU                                                   |                                                                                  | 2) Hardwarekomponenten, Anschlüsse                    | 1) Markt, Kosten                          |                                                      | 2)                                                                    |
