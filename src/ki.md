@@ -1,5 +1,7 @@
 # Künstliche Intelligenz
 
+[KI-Lehrmaterialien von N.Sultova](https://github.com/nsultova/KI-Lehrmaterialien/)
+
 ## Einführung
 
 * Deep Fake Beispiele:
