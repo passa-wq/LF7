@@ -21,11 +21,12 @@
 
 ## Wie funktioniert maschinelles Lernen?
 
-* [Self-classifying Digits](https://distill.pub/2020/selforg/mnist/)
 * [Growing Neural Cellular Automata](https://distill.pub/2020/growing-ca/)
+* [Self-classifying Digits](https://distill.pub/2020/selforg/mnist/)
 
 [![MultiLayerNeuralNetwork](https://upload.wikimedia.org/wikipedia/commons/c/c2/MultiLayerNeuralNetworkBigger_english.png)](https://de.wikipedia.org/wiki/Deep_Learning)
 
+* [MNIST Digit Classification (Code example)](https://github.com/csbanon/mnist-classifiers/blob/main/mnist-digits/mnist-digit-classification-with-a-fully-connected-neural-network.ipynb)
 * [Inside MNIST Model](https://adamharley.com/nn_vis/cnn/3d.html)
 * [CNN Explainer](https://poloclub.github.io/cnn-explainer/)
 
