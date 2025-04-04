@@ -1,6 +1,8 @@
 # Künstliche Intelligenz
 
-[KI-Lehrmaterialien von N.Sultova](https://github.com/nsultova/KI-Lehrmaterialien/)
+> [KI-Lehrmaterialien von N.Sultova](https://github.com/nsultova/KI-Lehrmaterialien/)
+
+> Vortrag von Klaus Knopper: „[Chancen + Risiken generativer KI in Unterricht + Prüfungen](https://media.ccc.de/v/clt25-334-chancen-risiken-generativer-ki-in-unterricht-prufungen)“
 
 ## Einführung
 
@@ -46,3 +48,8 @@
 > Zusatzaufgabe:
 > * Führt einen Dialog mit einem Sprachmodell, in dem ihr zeigt, wo die Grenzen der KI sind.
 > * Welche Fragen zum Thema KI habt ihr?
+
+### Retrieval-augmented generation (RAG)
+
+> Vortrag + Material von Michael Christen: „[Open Data/Freie Daten in KI Chatbots nutzen](https://media.ccc.de/v/clt25-269-open-datafreie-daten-in-ki-chatbots-nutzen)“
+> https://github.com/Orbiter/llm-rag-cheat-sheet
