@@ -16,6 +16,7 @@
   * [Anwendungsorientiert](./anwendungsorientiert.md)
     * [HTTP](http.md)
       * [REST](rest.md)
+        * [Python Beispiel](./examples/rest/python/README.md)
     * [MQTT](./mqtt.md)
 * [Praxis](praxis.md)
   * [Git](git.md)

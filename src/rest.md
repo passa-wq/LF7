@@ -1,6 +1,6 @@
 # REST
 
-## Beispiele
+## Beispiel APIs
 
 ### Nominatim
 
@@ -20,3 +20,9 @@ Ohne `format=`
 
 
 ### [Swagger Petstore](https://petstore.swagger.io/)
+
+
+## Beispiel Code
+
+* [Node-RED](nodered.md)
+* Python: [./examples/rest/python/](./examples/rest/python/)
