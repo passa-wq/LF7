@@ -20,6 +20,10 @@
   * Code Generierung (z.B. Copilot)
   * Datenschutz, Bias, Manipulation (z.B. DeepSeek)
 
+> Beispiel [IHK-AP1 2025](https://www.reddit.com/r/fachinformatiker/comments/1jjkq1m/ap1_2025_leak_pdf/)
+> „KI zur Rechtsberatung“?
+
+
 
 ## Wie funktioniert maschinelles Lernen?
 

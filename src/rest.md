@@ -29,6 +29,8 @@ Ohne `format=`
 
 ## Sicherheit
 
+[OWASP Top 10 Web Application Security Risks](https://owasp.org/www-project-top-ten/)
+
 Relevante [IT-Grundschutz-Bausteine](https://www.bsi.bund.de/SharedDocs/Downloads/DE/BSI/Grundschutz/IT-GS-Kompendium/IT_Grundschutz_Kompendium_Edition2023.pdf?__blob=publicationFile&v=4#download=1):
 
 * CON.2 Datenschutz
