@@ -42,18 +42,28 @@ pinout
 ### sys-Dateisystem
 Als root oder Mitglied der Gruppe `gpio`:
 ```bash
-echo 2 > /sys/class/gpio/export
-echo out > /sys/class/gpio/gpio2/direction
-echo 1 > /sys/class/gpio/gpio2/direction
-echo 0 > /sys/class/gpio/gpio2/direction
+## get offset
+ls /sys/class/gpio/gpiochip*
+PIN=$((512+2))
+
+echo $PIN > /sys/class/gpio/export
+echo out > /sys/class/gpio/gpio$PIN/direction
+
+echo 1 > /sys/class/gpio/gpio$PIN/value
+echo 0 > /sys/class/gpio/gpio$PIN/value
 ```
 
 blink.sh
 ```bash
+PIN=$((512+2))
+
+echo $PIN > /sys/class/gpio/export
+echo out > /sys/class/gpio/gpio$PIN/direction
+
 while true; do
-  echo 1 > /sys/class/gpio/gpio2/value
+  echo 1 > /sys/class/gpio/gpio$PIN/value
   sleep 1
-  echo 0 > /sys/class/gpio/gpio2/value
+  echo 0 > /sys/class/gpio/gpio$PIN/value
   sleep 1
 done
 ```
