@@ -55,7 +55,7 @@ echo 0 > /sys/class/gpio/gpio$PIN/value
 
 blink.sh
 ```bash
-PIN=$((512+2))
+PIN=$((571+2))
 
 echo $PIN > /sys/class/gpio/export
 echo out > /sys/class/gpio/gpio$PIN/direction
