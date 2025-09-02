@@ -7,26 +7,32 @@
 * [OhMyGit — spielerisch Git lernen](https://ohmygit.org/)
 
 
-## SOL
+## SOL-Aufgabe in ILIAS abgeben
 
 ```
 Erarbeiten Sie sich die Grundlagen zu Git.
 
 Von folgenden Subcommands sollten Sie wissen, was sie tun:
 
-
+# Erstellt ein neues Git-Repository im aktuellen Ordner
 git init
 
+# Klont ein bestehendes Repository auf den lokalen Rechner
 git clone
 
+# Zeigt den aktuellen Zustand des Repositories an (geänderte Dateien etc.)
 git status
 
+# Fügt Änderungen zur Staging-Area hinzu, um sie zu committen
 git add
 
+# Zeigt die Unterschiede zwischen Arbeitsverzeichnis und Staging-Area
 git diff
 
+# Speichert die Änderungen aus der Staging-Area ins lokale Repository
 git commit
 
+ # Setzt die Datei auf den letzten Commit zurück (Änderungen verwerfen)
 git restore
 
 
